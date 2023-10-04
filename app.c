@@ -1,10 +1,19 @@
 #include<stdio.h>
+#include "app.h"
 
 
-int main()
+
+
+void  main()
 {
-	Add();
-	sub();
-	mult();
-	div();
+	
+        Add();
+        sub();
+ 	mult();
+ 	div();
+ 	
+ 	return 0;
+ 	
+
+
 }

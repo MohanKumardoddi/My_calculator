@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+
 int mult()
 {
 	int a,b,mult;

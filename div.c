@@ -1,8 +1,9 @@
 #include<stdio.h>
 
+
 int div()
 {
-	int a, b,div;
+	int a,b,div;
 	printf("Enter the Two numbers in Div\n");
 	scanf("%d%d",&a,&b);
 	div = a/b;

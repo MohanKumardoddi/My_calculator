@@ -1,7 +1,11 @@
-#include<stdio.h>
+#include "app.h"
+
+
  
 
- 	int Add();
-	int sub();
-	int mult();
-	int div();
+      int Add();
+      int sub();
+      int mult();
+      int div();
+
+ 

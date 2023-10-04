@@ -1,6 +1,8 @@
 #include<stdio.h>
 
-int  add()
+
+
+int Add()
 {
 
    int a,b,sum;
